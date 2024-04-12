@@ -1,6 +1,6 @@
-# Título del proyecto
+Social Links Profile
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://raw.githubusercontent.com/BacaCesar/social-links-profile/main/design/desktop-preview.jpg)
 
 ## Ejemplo en vivo
 
