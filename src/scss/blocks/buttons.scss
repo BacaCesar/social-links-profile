@@ -1,3 +1,4 @@
+@use '../mixins/hover.scss' as *;
 .buttons {
   display: flex;
   flex-direction: column;
@@ -8,10 +9,13 @@
   height: 45px;
   width: 279px;
   border-radius: 8px;
-  background-color: #333333;
+  background-color: var(--backgound-color-button);
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
   font-weight: 800;
+  @include hover {
+    background-color: var(--color-green);
+  }
 }
