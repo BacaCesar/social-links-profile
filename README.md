@@ -28,12 +28,12 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ![Captura del proyecto](https://raw.githubusercontent.com/BacaCesar/social-links-profile/main/design/destkop-design.jpg)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://raw.githubusercontent.com/BacaCesar/social-links-profile/main/design/active-states.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/BacaCesar/social-links-profile/main/design/mobile-design.jpg)
 
 ## Autor ✒️
 
-**TU NOMBRE**
+**Cesar Baca**
 
 - [micorreo@midominio.com](micorreo@midominio.com)
 - [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
